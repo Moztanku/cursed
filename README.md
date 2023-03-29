@@ -1,0 +1,2 @@
+# cursed
+Cursed c++
